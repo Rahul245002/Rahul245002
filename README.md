@@ -1,4 +1,4 @@
-![logo](https://github.com/Rahul245002/Rahul245002/blob/main/Blue%20and%20White%20Futuristic%20AI%20Technology%20Banner.png)
+![logo](https://github.com/Rahul245002/Rahul245002/blob/main/Blue%20and%20White%20Futuristic%20AI%20Technology%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">"Transforming Data into Actionable Insights"</h3>
 
